@@ -1,6 +1,6 @@
 # Fedora 30 Ansible Test Image
 
-[![Build Status](https://travis-ci.com/buluma/docker-fedora30-ansible.svg?branch=master)](https://travis-ci.com/buluma/docker-fedora30-ansible) [![Docker Automated build](https://img.shields.io/buluma/automated/geerlingguy/docker-fedora30-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/buluma/docker-fedora30-ansible/)
+[![Build](https://github.com/buluma/docker-fedora30-ansible/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/buluma/docker-fedora30-ansible/actions/workflows/build.yml) [![Docker Automated build](https://img.shields.io/buluma/automated/geerlingguy/docker-fedora30-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/buluma/docker-fedora30-ansible/) [![Build Status](https://travis-ci.com/buluma/docker-fedora30-ansible.svg?branch=main)](https://travis-ci.com/buluma/docker-fedora30-ansible) [![Docker](https://github.com/buluma/docker-fedora30-ansible/actions/workflows/docker-publish.yml/badge.svg?branch=main)](https://github.com/buluma/docker-fedora30-ansible/actions/workflows/docker-publish.yml)
 
 Fedora 30 Docker container for Ansible playbook and role testing.
 
